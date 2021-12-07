@@ -1,4 +1,4 @@
-# LAMP stack on an Azure
+# LAMP stack on Azure
 Deploy an Apache web server, MySQL, and PHP (the LAMP stack) on an Ubuntu VM in Azure.
 
 ## Create an Ubuntu VM in Azure
